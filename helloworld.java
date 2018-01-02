@@ -3,6 +3,7 @@ public class HelloWorld {
       // Prints "Hello, World" in the terminal window.
       System.out.println("Hello, World");
       System.out.println("welcome to the project");
+//prints the statement
       System.out.println("welcome to the GIT");
    }
 }
