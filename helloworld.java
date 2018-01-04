@@ -5,5 +5,6 @@ public class HelloWorld {
       System.out.println("welcome to the project");
 //prints the statement
       System.out.println("welcome to the GIT");
+      System.out.println("welcome to database");
    }
 }
