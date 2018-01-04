@@ -6,5 +6,7 @@ public class HelloWorld {
 //prints the statement
       System.out.println("welcome to the GIT");
       System.out.println("welcome to database");
+   //below statemnet is added as part of bug release
+      System.out.println("Hello Branch_2");
    }
 }
