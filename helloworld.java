@@ -5,6 +5,7 @@ public class HelloWorld {
       System.out.println("welcome to the project");
 //prints the statement
       System.out.println("welcome to the GIT");
-      System.out.println("welcome to database");
-   }
+//Added a print statement as part of new feature release
+       System.out.println("Hello Branch_1");
+         }
 }
